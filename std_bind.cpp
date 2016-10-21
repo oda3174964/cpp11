@@ -40,3 +40,9 @@ int main()
 	}
 	return 0;
 }
+
+/*
+placeholders 为占位符
+0 2 4 6 8
+2 4 6 8 10
+*/
