@@ -49,4 +49,6 @@ int main()
 		{ {"Jhon", "Doe"}, "example"},
 		{ {"Mary", "Sue"}, "another"},
 	};
+	
+	return 0;
 }
